@@ -15,8 +15,8 @@
 <br>
 <br>
 
+<h1 align ="center">Let's Connect!</h1>
 <p align="center">
-  <h2>Let's Connect!</h2>
   <a href="https://github.com/BrettFlavin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a>  
   <a href="https://www.linkedin.com/in/BrettFlavin/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>  
   <a href="https://www.facebook.com/BrettFlavin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='linkedin' height='30'></a>  
