@@ -1,4 +1,6 @@
-# <p align ="center"> <👋 Hello World! - I'm Brett!/> </p>
+# <p align ="center"> <👋Hello World!👋/> </p>
+
+<img src='https://gph.is/g/ZOJWO8N'>
 
 <p align="center">I'm from San Diego, CA and I enjoy learning about software development and new technologies. I especially like to design, develop, and create mobile and web applications!</p> 
 
