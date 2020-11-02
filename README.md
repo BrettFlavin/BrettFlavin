@@ -1,5 +1,4 @@
 # <👋 Hello World! - I'm Brett!/>
-
 I'm from San Diego, CA and I enjoy learning about software development and new technologies. I especially like to design, develop, and create mobile and web applications! 
 
 ## Skills + Experience
