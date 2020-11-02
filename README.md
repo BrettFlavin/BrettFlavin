@@ -1,7 +1,9 @@
 <!-- CSS animated headline -->
 <img src='https://media.giphy.com/media/x0KAz7oAyhA5nFu2Lu/source.gif' alt='github' width='100%'> 
-✔️ From San Diego, CA 
+✔️ From San Diego, CA
+<br>
 ✔️ I enjoy learning about software development and new technologies
+<br>
 ✔️ I especially like to design, develop, and create mobile and web applications ❣️ 
 
 ## Skills + Experience
