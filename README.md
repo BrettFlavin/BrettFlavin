@@ -1,6 +1,6 @@
 <!-- CSS animated headline -->
 <img src='https://media.giphy.com/media/x0KAz7oAyhA5nFu2Lu/source.gif' alt='github' width='100%'> 
-✔️ From San Diego, CA
+✔️ I'm from San Diego, CA
 <br>
 ✔️ I enjoy learning about software development and new technologies
 <br>
