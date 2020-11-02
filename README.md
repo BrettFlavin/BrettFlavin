@@ -1,4 +1,8 @@
-Hello! I'm Brett, a software developer, 
+# Hello! I'm Brett,
 
+I'm from San Diego, CA and I enjoy learning about software development and working on things like mobile apps, web development and design! 
 
-[![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BrettFlavin&show_icons=true&theme=radical)](https://github.com/BrettFlavin/github-readme-stats)
+## Skills and Experience
+* Desktop 💻
+* Mobile 📱
+* Design 🃏
