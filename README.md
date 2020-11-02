@@ -4,7 +4,7 @@
 <br>
 ✔️ I enjoy learning about software development and new technologies
 <br>
-✔️ I especially like to design, develop, and create mobile and web applications ❣️ 
+✔️ I especially like to design, develop, and create mobile and web applications!
 
 ## Skills + Experience
 🚀Software  ·  📱Mobile  ·  🖥Web  ·  📝Design 
