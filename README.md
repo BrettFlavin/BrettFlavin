@@ -10,19 +10,8 @@ Development 💻  Mobile 📱  Design 🖍
 
 ## Let's Connect!
 <p align="center">
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>[github-link]]
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>][linkedin-link]  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>][facebook-link]  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>][website-link] 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>(https://github.com/BrettFlavi)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>(https://www.linkedin.com/in/BrettFlavin)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>(https://www.facebook.com/BrettFlavin)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>(https://brettflavin.com) 
 </p>
-
-<!----------------------------->
-<!-- MARKDOWN LINKS & IMAGES -->
-<!----------------------------->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[github-link]: https://img.shields.io/github/contributors/BrettFlavin/repo?style=plastic
-[linkedin-link]: https://github.com/BrettFlavin/repo/graphs/contributors
-[facebook-link]: https://img.shields.io/github/forks/BrettFlavin/repo?style=plastic
-[website-link]: https://github.com/BrettFlavin/repo/network/members
-
