@@ -1,6 +1,6 @@
 # <Hello World! 👋 I'm Brett!/>
 
-I'm from San Diego, CA and I enjoy learning about software development and new technologies. I like to create mobile and web apps, and I also dabble in web development and design! 
+I'm from San Diego, CA and I enjoy learning about software development and new technologies. I especially like to design, develop, and create mobile and web applications! 
 
 
 ## Languages + Tools
@@ -8,7 +8,7 @@ I'm from San Diego, CA and I enjoy learning about software development and new t
 
 
 ## Skills + Experience
- 👨🏽‍💻Software Development  📱Mobile Development  💻Web Development  🖍Design 
+ 👨🏽‍💻Software Development  📱Mobile Development  📰Web Development  🚀Design 
 
 
 ## Let's Connect!
