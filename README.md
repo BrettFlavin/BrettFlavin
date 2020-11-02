@@ -8,7 +8,7 @@ I'm from San Diego, CA and I enjoy learning about software development and new t
 
 
 ## Skills + Experience
- 👨🏽‍💻Software  📱Mobile  🖥Web  🚀📰Design 
+🚀Software  📱Mobile  🖥 👨🏽‍💻Web 📝Design 
 
 
 ## Let's Connect!
